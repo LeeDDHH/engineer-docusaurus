@@ -1,0 +1,12 @@
+{
+  "docs": {
+    "このページについて": ["index-front"],
+    "JavaScript": ["js1", "js2", "js3", "js4", "js5", "js6", "js7"],
+    "ES5とES6": ["js-syntax1", "js-syntax2", "js-syntax3", "js-syntax4", "js-syntax5", "js-syntax6", "js-syntax7"],
+    "Node.js": ["node1"],
+    "エラーと対策": ["E-R"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}

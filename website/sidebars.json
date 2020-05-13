@@ -3,6 +3,7 @@
     "このページについて": ["index-front"],
     "JavaScript": ["js1", "js2", "js3", "js4", "js5", "js6", "js7"],
     "ES5とES6": ["js-syntax1", "js-syntax2", "js-syntax3", "js-syntax4", "js-syntax5", "js-syntax6", "js-syntax7"],
+    "React": ["react-1", "react-2", "react-3", "react-4", "react-5", "react-6", "react-7", "react-8", "react-9", "react-10", "react-11", "react-12", "react-13", "react-14"],
     "Node.js": ["node1"],
     "エラーと対策": ["E-R"]
   },
